@@ -11,7 +11,7 @@ Name:		perl-XML-DTDParser
 Version:	1.7
 Release:	1
 # same as perl
-License:	GPL or Artistic
+License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
 # Source0-md5:	11929b44fe75012fd4f991c412855081
@@ -36,7 +36,6 @@ potomkach, rodzicach, opcjonalno¶ci itp. itd.
 %build
 %{__perl} Makefile.PL \
 	INSTALLDIRS=vendor
-
 %{__make}
 
 %{?with_tests:%{__make} test}

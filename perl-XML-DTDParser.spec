@@ -3,8 +3,8 @@
 %bcond_without	tests	# do not perform "make test"
 #
 %include	/usr/lib/rpm/macros.perl
-%define	pdir	XML
-%define	pnam	DTDParser
+%define		pdir	XML
+%define		pnam	DTDParser
 Summary:	XML::DTDParser - quick and dirty DTD parser
 Summary(pl):	XML::DTDParser - szybko i brzydko napisany parser DTD
 Name:		perl-XML-DTDParser

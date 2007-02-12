@@ -6,7 +6,7 @@
 %define		pdir	XML
 %define		pnam	DTDParser
 Summary:	XML::DTDParser - quick and dirty DTD parser
-Summary(pl):	XML::DTDParser - szybko i brzydko napisany parser DTD
+Summary(pl.UTF-8):   XML::DTDParser - szybko i brzydko napisany parser DTD
 Name:		perl-XML-DTDParser
 Version:	2.01
 Release:	1
@@ -25,10 +25,10 @@ This module parses a DTD file and creates a data structure containing
 info about all tags, their allowed parameters, children, parents,
 optionality etc. etc. etc.
 
-%description -l pl
-Ten modu³ analizuje plik DTD i tworzy strukturê danych zawieraj±c±
+%description -l pl.UTF-8
+Ten moduÅ‚ analizuje plik DTD i tworzy strukturÄ™ danych zawierajÄ…cÄ…
 informacje o wszystkich znacznikach, ich dozwolonych parametrach,
-potomkach, rodzicach, opcjonalno¶ci itp. itd.
+potomkach, rodzicach, opcjonalnoÅ›ci itp. itd.
 
 %prep
 %setup -q -n %{pdir}-%{pnam}-%{version}

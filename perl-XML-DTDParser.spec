@@ -6,7 +6,7 @@
 %define		pdir	XML
 %define		pnam	DTDParser
 Summary:	XML::DTDParser - quick and dirty DTD parser
-Summary(pl.UTF-8):   XML::DTDParser - szybko i brzydko napisany parser DTD
+Summary(pl.UTF-8):	XML::DTDParser - szybko i brzydko napisany parser DTD
 Name:		perl-XML-DTDParser
 Version:	2.01
 Release:	1

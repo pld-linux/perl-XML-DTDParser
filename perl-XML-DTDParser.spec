@@ -4,7 +4,6 @@
 
 %define		pdir	XML
 %define		pnam	DTDParser
-%include	/usr/lib/rpm/macros.perl
 Summary:	XML::DTDParser - quick and dirty DTD parser
 Summary(pl.UTF-8):	XML::DTDParser - szybko i brzydko napisany parser DTD
 Name:		perl-XML-DTDParser

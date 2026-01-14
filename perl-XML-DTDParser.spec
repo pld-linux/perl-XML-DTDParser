@@ -8,7 +8,7 @@ Summary:	XML::DTDParser - quick and dirty DTD parser
 Summary(pl.UTF-8):	XML::DTDParser - szybko i brzydko napisany parser DTD
 Name:		perl-XML-DTDParser
 Version:	2.01
-Release:	2
+Release:	3
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
